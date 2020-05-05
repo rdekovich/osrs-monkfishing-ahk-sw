@@ -73,7 +73,7 @@ global execGood
 		
 		// Set execution bit to good, set a timer to replace it when time is up for this iteration
 		execGood := 1
-		setTimer, changeExec, -10800000 // Timer runs for 3 hours (1000 * 60 (1s) * 60 (1m) * 60 (1h) * 3)
+		setTimer, changeExec, -10800000 // Timer runs for 3 hours (1000 * 60 (1s) * 60 (1m/h) * 3)
 		
 		// Loop indefinitley, break when timer has been reached after the last banking run
 		Loop {
