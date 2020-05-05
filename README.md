@@ -1,4 +1,4 @@
-# osrs-monkfishing-sw
+# osrs-monkfishing-ahk-sw
 The following repository contains the source code, assets and instructions for setting up and using the OSRS Monkfishing script, 
 which uses AHK (AutoHotKey) to fish and bank monkfish for a given user in OSRS.
 
