@@ -8,7 +8,7 @@ To use this script, the following requirements are mandated in order for proper 
 ### OSRS prerequisites
 Prior to considering using this script, the user must first do/have the following:
 
-* Have completed Swan Song (quest)
+* Has completed Swan Song (quest)
 * Has 62+ Fishing
 * Has a small fishing net
 
